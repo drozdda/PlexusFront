@@ -9,12 +9,13 @@ function processForm(e) {
     var user = {
         "email": email,
         "password": password,
-        "name": name
+        
    
     };
 
     // TODO: send user to server.
     console.dir(user);
+    
    
    
     // You must return false to prevent the default form behavior
