@@ -2,7 +2,11 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.10.2",
+<<<<<<< HEAD
+      "C:\\Users\\thoma\\Documents\\College\\Courses\\6. 19F\\SYST 30025 - Software Engineering\\Project\\PlexusFront"
+=======
       "/Users/David/Documents/GitHub/PlexusFront"
+>>>>>>> 08462823228b0a0dc0fe2a0a8cf73dd42604bed8
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.10.2",
@@ -27,7 +31,11 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.10.2.tgz",
   "_spec": "5.10.2",
+<<<<<<< HEAD
+  "_where": "C:\\Users\\thoma\\Documents\\College\\Courses\\6. 19F\\SYST 30025 - Software Engineering\\Project\\PlexusFront",
+=======
   "_where": "/Users/David/Documents/GitHub/PlexusFront",
+>>>>>>> 08462823228b0a0dc0fe2a0a8cf73dd42604bed8
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
